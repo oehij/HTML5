@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+		<head>
+			<title></title>
+			<meta charset="utf-8">
+		</head>
+		<body>
+
+		</body>
+</html>
+
+
+위는 html의 가장 기본적인 구조 틀이다.
+
+html의 기본 틀 태그 작업은 바깥쪽에서 안쪽으로 들어가는 형식으로 작성이된다.
+
+body는 html의 모든명령을 품고있다.
+
+meta는 기계,브라우저 일반적인 정보를 제공하고 설정해주는 태그 
+
+meta=태그 charset=속성 utf-8이라는 설정이 되어있어야 한글을 사용해도 브라우저 에서 안깨진다.
+
+body안쪽에 text,img,동영상 노래등 다 작업할수있다.
+
+
+
