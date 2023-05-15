@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+		<head>
+				<title>경로와 이미지</title>
+				<meta charset="utf-8">
+		</head>
+		<body>
+		<img src="img/a.jpg" />
+		<img src="sub/img/b.jpg" />
+		
+		</body>
+</html>
+
+폴더명/파일명.확장자
+
+img 태그 이미지 삽입 하는 태그로 '단톡'태그
+
+jpg 파일이 가장 사용하기 용함(용량 작음), 단점: 투명화x
+
+gif 색갈 표현 적음, 용량 작음 , 사용하기 애매함, 2D 애니메이션 작업 용이
+
+png 투명화o 용량 up
+
+ex) img/a.jpg/   슬러쉬가 2개  1번쨰 /= 안에 있는 폴더경로 2번쨰 /= 끝태그를 의미
