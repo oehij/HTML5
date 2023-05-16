@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+		<head>
+				<title> </title>
+				<meta charset="utf-8">
+		</head>
+		<body>
+				<!--지난 시간 복습 및 활용 이미지 삽입-->
+
+				<!--1.텍스트를 클릭하여 웹사이트로 이동하기-->
+				<a href="http://www.naver.com">네이버이동</a>
+
+				<!--2.이미지를 클릭하여 웹사이트로 이동하기-->
+				<a href="http://www.naver.com">
+						<img src="img/naver.jpg"
+				</a>
+
+				<--3.내가 만든 sub페이지로 이동하기-->
+				<a href="sub/sub.html">sub페이지로 이동합니다</a>
+				
+				<--4.내가 만든 sub페이지 새탭으로 이동하기-->
+
+				<--5.내가 만든 sub페이지로 이동 안내하기-->
+
+				<--6.한페이지 내에서의 이동-->
+				<a href="">con_1이동</a>
+				<a href="">con_2이동</a>
+
+				<a name="con_1">
+						<h1>con_1내용 부분입니다</h1>
+						<img src="img/con_1.jpg" />
+				</a>
+				<a name="con_2">
+					<h1>con_2내용 부분입니다</h1>
+					<img src="img/con_2.jpg" />
+				</a>
+
+		</body>
+</html>
+
+			</body>
+</html>
