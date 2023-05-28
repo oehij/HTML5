@@ -1,0 +1,18 @@
+<doctype html>
+<html>
+		<head>
+				<title>사용자입력태그</title>
+				<meta charset='utf-8">
+		</head>
+		<body>
+<!--<input type="타입형태" name="input태그의 이름설정" value="서버로 넘기는 값" />-->
+<input type="text" name="id" value="아이디" size="30" maxlength="5">
+<input type="checkbox" id="ch_box_1"><label for="ch_box_1>"체크박스내용</label>
+<input type="checkbox" id="ch_box_2"><label for="ch_box_2>"체크박스내용</label>
+<input type="checkbox" id="ch_box_3"><label for="ch_box_3>"체크박스내용</label>
+
+<input type="radio" id="ra_box_1"><label for="ra_box_1">라디오내용</label>
+<input type="radio" id="ra_box_2"><label for="ra_box_2">라디오내용</label>
+<input type="radio" id="ra_box_3"><label for="ra_box_3">라디오내용</label>
+</body>
+</html>
